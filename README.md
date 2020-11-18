@@ -12,9 +12,9 @@ MySQLもチェックして。
 
 忘れた人はここからStart。
 
-### PhpMyAdmin起動
+### phpMyAdmin起動
 
-Start -> Open
+メニューに「phpMyAdmin」という項目があるので、「Start」 を押して、終わったら次 「Open」を押します。
 
 ### 新規プロジェクトの作成
 
