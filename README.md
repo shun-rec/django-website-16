@@ -8,9 +8,9 @@
 
 ### サーバー起動
 
-MySQLもチェックして。
+Paizaサーバーは、djangoとMySQLにチェックを入れて起動して下さい。
 
-忘れた人はここからStart。
+MySQLのチェックを忘れた人はphpMyAdminを起動するのと同じメニューからMySQL → Start を押すと起動できます。
 
 ### phpMyAdmin起動
 
