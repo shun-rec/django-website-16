@@ -53,6 +53,14 @@ pip install mysqlclient
 DATABASE_URL=mysql://root:@localhost/pj_migrate
 ```
 
+### マイグレーションの実行
+
+前回までのマイグレーションを実行しましょう。
+
+```sh
+python manage.py migrate
+```
+
 ## マイグレーションはどこに記録されているか
 
 phpMyAdminのdjango_migrationsというテーブルを見てみましょう。
